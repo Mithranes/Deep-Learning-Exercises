@@ -3,7 +3,7 @@
 Trained ResNet50 model on CIFAR-10 dataset.
 
 ## Download Model
-[Hugging Face Model](https://huggingface.co/your-username/cifar10-model)
+[Hugging Face Model](https://huggingface.co/Mithranes/CIFAR-ResNet50/tree/main)
 
 ## Load Model
 ```python
